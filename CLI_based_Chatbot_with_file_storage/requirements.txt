@@ -1,0 +1,7 @@
+python-dotenv
+langchain
+langchain-openai
+# If using LangChain Community integrations:
+langchain-community
+# If using LangChain Core (sometimes included with langchain, but explicit is better)
+langchain-core
